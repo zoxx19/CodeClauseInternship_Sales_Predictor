@@ -26,3 +26,7 @@ The pipeline follows these key steps:
 * Analysis of feature importance
 ## Usage
 The code serves as a template for developing sales forecasting systems using machine learning techniques. It can be reused for other regression problems as well.
+
+## Reference:
+https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data
+
